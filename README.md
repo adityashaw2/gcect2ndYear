@@ -3,6 +3,6 @@ Description of known commands for our Telegram Group
 Write below line to get all known commands within Telegram itself.  
 /extra list  
 To get the VisualBasic Document :  
-/vb  
+#vb  
 
 That's all friends!  
