@@ -4,5 +4,9 @@ Write below line to get all known commands within Telegram itself.
 /extra list  
 To get the VisualBasic Document :  
 #vb  
+CO Lab Assignment :  
+#co  
+Interpolation :  
+#nm1  
 
 That's all friends!  
